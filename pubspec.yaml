@@ -9,8 +9,7 @@ dependencies:
   build:
   source_gen:
   builder:
-    path: ../builder
-#   path: ^1.8.0
+    git: https://github.com/ArishSultan/buildable.git
 
 dev_dependencies:
   lints: ^1.0.0
